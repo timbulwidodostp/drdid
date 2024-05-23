@@ -1,6 +1,8 @@
 # drdid
 Doubly Robust Difference in Difference (DID) with Multiple periods estimator Use drdid With (In) R Software
 
+https://www.youtube.com/watch?v=rlXphFks31o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
